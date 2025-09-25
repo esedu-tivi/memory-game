@@ -11,10 +11,8 @@ Tässä repositoryssa on toteutettu yksinkertainen muistipeli JavaScriptillä.
 
 ## Moduulien käyttö
 
-Opiskelijat voivat myös oppia käyttämään JavaScript-moduuleja jakamalla koodin useisiin tiedostoihin. Esimerkki moduuleista:
+Koodi on organisoitu seuraaviin moduuleihin:
 
 - `game.js`: Pelin aloitus ja päälogiikka.
 - `board.js`: Pelilaudan luominen ja korttien käsittely.
 - `card.js`: Korttien luominen ja kääntäminen.
-
-Tämä auttaa opiskelijoita oppimaan, miten koodia voidaan organisoida paremmin ja miten JavaScript-moduuleja käytetään.
